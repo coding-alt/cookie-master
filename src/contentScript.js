@@ -70,7 +70,7 @@ function createPanel() {
 
   // 添加按钮容器
   const buttonsContainer = document.createElement('div');
-  buttonsContainer.style.cssText = 'display: flex; gap: 10px; margin-bottom: 10px;';
+  buttonsContainer.style.cssText = 'display: flex; gap: 10px; margin-bottom: 10px; text-align: center;';
   panel.appendChild(buttonsContainer);
 
   // 导出按钮
