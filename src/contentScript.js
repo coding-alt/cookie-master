@@ -21,6 +21,7 @@ function injectFloatingButton() {
     width: 40px;
     height: 40px;
     font-size: 20px;
+    text-align: center;
     cursor: pointer;
     z-index: 9999;
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
